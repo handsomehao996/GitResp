@@ -11,4 +11,8 @@ public class GitTest {
     public static void SayHello(){
         System.out.println("hahahahahaha");
     }
+
+    public void aaa(){
+        
+    }
 }
